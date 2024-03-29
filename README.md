@@ -23,8 +23,10 @@ Certifications: Data Structure, Programming Fundamental, SQL for Data Science, G
 
 **Achievements**
 
-**Qualified TCS NQT (73.38%)
-4 Star HackerRank problem solving in Java
+**Qualified TCS NQT (73.38%),
+
+4 Star HackerRank problem solving in Java,
+
 5 Star HackerRank problem solving in C++**
 
 Extra-curricular Activities
@@ -33,8 +35,11 @@ Technical Talks and Workshops: Engaged in technical meetups, impacting 700+ peop
 Articles: Authored detailed articles on networking topics.
 
 **Let's Connect!
-📧 Email: akdwivedi7355@gmail.com
+📧 Email: akdwivedi7355@gmail.com  
+
 🔗 LinkedIn: linkedin.com/in/akdwivedi7355
+
 🐙 GitHub: github.com/akdwivedi7355
+
 🌐 Portfolio: akdwivedi7355.github.io/myportfolio/portfolio.html
 **
