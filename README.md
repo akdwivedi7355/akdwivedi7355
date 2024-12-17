@@ -5,7 +5,18 @@ Welcome to my profile! 🚀
 ---
 
 ## 👨‍💻 **About Me**  
-I'm a **proactive and dedicated software developer** passionate about pushing boundaries with technology. Currently pursuing my **Master's in Computer Application** from **Dr. A.P.J Abdul Kalam Technical University, Lucknow**, I enjoy creating innovative solutions through code and collaboration.
+I'm a **proactive and dedicated Software Developer** currently working at **MULTIFACET SOFTWARES SYSTEMS**. With a strong foundation in programming languages and technology, I specialize in building innovative solutions that deliver impact.  
+
+I'm also Completed my **Master's in Computer Application** from **Dr. A.P.J Abdul Kalam Technical University, Lucknow**.
+
+---
+
+## 💼 **Professional Experience**  
+
+### **Software Developer | MSSPL**  
+- Working on **multifaceted software solutions** to meet client needs.  
+- Collaborating with teams to design, develop, and deploy high-quality applications.  
+- Utilizing technologies like **JavaScript, Python, React, and MySQL** for efficient solutions.  
 
 ---
 
@@ -57,4 +68,4 @@ Built a **personalized book recommendation system** that enhances user engagemen
 
 🎯 *"Passion fuels progress, and I believe every line of code brings us closer to a solution."* 🚀  
 
----
+ 😊
