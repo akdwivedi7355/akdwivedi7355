@@ -1,6 +1,3 @@
-Here’s an updated version of your profile incorporating elements from the style and structure you shared, with added sections showcasing your repositories, commits, and other activity:
-
----
 
 # 🌟 Hi there, I'm **Aditya Kumar Dwivedi**! 👋  
 
@@ -35,9 +32,7 @@ I hold a **Master's in Computer Application** from **Dr. A.P.J Abdul Kalam Techn
   - A **robust recommendation system** using Pandas and Scikit-learn.  
   - Tools: Python, Pandas, Scikit-learn.  
 
-To make the data in the **Activity Overview** section dynamic and updated in real-time, you can integrate GitHub API or a service like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) into your GitHub profile README. Here's how you can do it:
 
----
 
 ### 📊 **Dynamic Activity Overview**
 
@@ -46,7 +41,6 @@ To make the data in the **Activity Overview** section dynamic and updated in rea
 | **Total Repositories**   | ![Repos](https://img.shields.io/badge/dynamic/json?label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakdwivedi7355) |
 | **Commits this Year**    | ![Commits](https://github-readme-stats.vercel.app/api?username=akdwivedi7355&show_icons=true&count_private=true&hide=prs&line_height=27&theme=radical&hide_title=true) |
 | **Followers**            | ![Followers](https://img.shields.io/github/followers/akdwivedi7355?label=Followers) |
-| **Contributions**        | ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=akdwivedi7355&theme=radical&hide_border=true) |
 
 ---
 Check out all my projects: [My GitHub Repositories](https://github.com/akdwivedi7355?tab=repositories)  
