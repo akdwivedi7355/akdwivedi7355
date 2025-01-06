@@ -1,90 +1,118 @@
 
-# 🌟 Hi there, I'm **Aditya Kumar Dwivedi**! 👋  
+---
 
+## 🌟 **Hi there, I'm Aditya Kumar Dwivedi!** 👋  
 Welcome to my profile! 🚀  
 
 ---
 
-## 👨‍💻 **About Me**  
-I'm a **proactive and dedicated Software Developer** currently working at **MULTIFACET SOFTWARES SYSTEMS**. I have a solid foundation in programming and specialize in creating impactful, innovative solutions.  
+### 🎯 **About Me**  
 
-I hold a **Master's in Computer Application** from **Dr. A.P.J Abdul Kalam Technical University, Lucknow**.
+<div align="center">
 
----
+  <img src="https://via.placeholder.com/300x200.png?text=About+Me" alt="About Me" style="border-radius: 10px;"/>
 
-## 💼 **Professional Experience**  
-
-### **Software Developer | MSSPL**  
-- Designing and developing **high-quality, multifaceted software solutions** tailored to client needs.  
-- Collaborating with teams to ensure seamless **application deployment and user satisfaction**.  
-- Proficient in technologies like **JavaScript, Python, React, and MySQL** for scalable solutions.  
+  <p>
+    I'm a **proactive and dedicated Software Developer** currently working at **MULTIFACET SOFTWARES SYSTEMS**.  
+    I hold a **Master's in Computer Application** from **Dr. A.P.J Abdul Kalam Technical University, Lucknow**.  
+  </p>
+</div>
 
 ---
 
-## 🚀 **Repositories and Activity**  
+### 💼 **Professional Experience**  
 
-### 🌟 **Highlighted Repositories**
-- **[AIdyllic AI Platform](https://github.com/akdwivedi7355/AIdyllic-AI-Platform)**:  
-  - An **end-to-end AI platform** leveraging React, Python, and TensorFlow.  
-  - Tools: JavaScript, React, Python, TensorFlow, HTML/CSS.  
+<div align="center">
+  <img src="https://via.placeholder.com/300x200.png?text=Professional+Experience" alt="Experience" style="border-radius: 10px;"/>
 
-- **[Book Recommendation System](https://github.com/akdwivedi7355/Book-Recommendation-System)**:  
-  - A **robust recommendation system** using Pandas and Scikit-learn.  
-  - Tools: Python, Pandas, Scikit-learn.  
-
-
-
-### 📊 **Dynamic Activity Overview**
-
-| **Metric**              | **Value**       |
-|--------------------------|-----------------|
-| **Total Repositories**   | ![Repos](https://img.shields.io/badge/dynamic/json?label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakdwivedi7355) |
-| **Commits this Year**    | ![Commits](https://github-readme-stats.vercel.app/api?username=akdwivedi7355&show_icons=true&count_private=true&hide=prs&line_height=27&theme=radical&hide_title=true) |
-| **Followers**            | ![Followers](https://img.shields.io/github/followers/akdwivedi7355?label=Followers) |
-
----
-Check out all my projects: [My GitHub Repositories](https://github.com/akdwivedi7355?tab=repositories)  
+  <ul>
+    <li><strong>Software Developer | MSSPL</strong></li>
+    <li>Specialized in creating **scalable and impactful solutions** using **JavaScript, Python, React, and MySQL**.</li>
+    <li>Collaborated on **end-to-end application deployment** for diverse client projects.</li>
+  </ul>
+</div>
 
 ---
 
-## 🛠️ **Skills**  
+### 🚀 **Highlighted Repositories**  
 
-| **Languages**   | **Web Development** | **Databases**      | **Tools**           |
-| :-------------: | :-----------------: | :----------------: | :-----------------: |
-| C++, Java, Python | HTML, CSS, JavaScript | MySQL, MongoDB      | Git, GitHub, Firebase, Heroku |
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
----
+  <div style="width: 300px; border: 1px solid #ddd; padding: 10px; border-radius: 10px;">
+    <h3><a href="https://github.com/akdwivedi7355/AIdyllic-AI-Platform">✨ AIdyllic AI Platform</a></h3>
+    <p>
+      An **end-to-end AI platform** showcasing React, Python, and TensorFlow.<br/>
+      Tools: JavaScript, React, TensorFlow, HTML/CSS.
+    </p>
+  </div>
 
-## 🏆 **Certifications & Achievements**  
+  <div style="width: 300px; border: 1px solid #ddd; padding: 10px; border-radius: 10px;">
+    <h3><a href="https://github.com/akdwivedi7355/Book-Recommendation-System">📚 Book Recommendation System</a></h3>
+    <p>
+      A personalized **recommendation system** built with Pandas and Scikit-learn.<br/>
+      Tools: Python, Pandas, Scikit-learn.
+    </p>
+  </div>
 
-- **Qualified TCS NQT** (73.38%)  
-- **4⭐ HackerRank** in Java Problem Solving  
-- **5⭐ HackerRank** in C++ Problem Solving  
-- Certified in **Data Structures**, **Programming Fundamentals**, **SQL for Data Science**, and **Google Analytics**  
-
----
-
-## 🌟 **Extra-Curricular Activities**  
-
-- **Tech Community Organizer** at **Our Tech Community (OTC)**  
-  - Conducted **technical talks and workshops** impacting **700+ learners**  
-- **Articles**: Authored technical deep-dives on **networking topics**  
-
----
-
-## 📬 **Let's Connect!**  
-
-- 📧 Email: [akdwivedi7355@gmail.com](mailto:akdwivedi7355@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/akdwivedi7355](https://linkedin.com/in/akdwivedi7355)  
-- 🐙 GitHub: [github.com/akdwivedi7355](https://github.com/akdwivedi7355)  
-- 🌐 Portfolio: [akdwivedi7355.github.io/myportfolio/portfolio.html](https://akdwivedi7355.github.io/myportfolio/portfolio.html)  
+</div>
 
 ---
 
-🎯 *"Passion fuels progress, and I believe every line of code brings us closer to a solution."* 🚀  
+### 📊 **Activity Overview**  
 
-😊
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=akdwivedi7355&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px;"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akdwivedi7355&theme=radical" alt="Streak Stats" style="border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akdwivedi7355&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px;"/>
+
+</div>
 
 ---
 
-Let me know if you need further customization!
+### 🛠️ **Skills**  
+
+<div align="center">
+  <img src="https://via.placeholder.com/300x200.png?text=Skills" alt="Skills" style="border-radius: 10px;"/>
+
+  <ul>
+    <li><strong>Languages:</strong> C++, Java, Python</li>
+    <li><strong>Web Development:</strong> HTML, CSS, JavaScript</li>
+    <li><strong>Databases:</strong> MySQL, MongoDB</li>
+    <li><strong>Tools:</strong> Git, GitHub, Firebase, Heroku</li>
+  </ul>
+</div>
+
+---
+
+### 🏆 **Certifications & Achievements**  
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="width: 300px; border: 1px solid #ddd; padding: 10px; border-radius: 10px;">
+    <h4>Qualified TCS NQT</h4>
+    <p>Achieved a score of 73.38%.</p>
+  </div>
+  <div style="width: 300px; border: 1px solid #ddd; padding: 10px; border-radius: 10px;">
+    <h4>HackerRank Java (4⭐)</h4>
+    <p>Recognized for Java Problem Solving.</p>
+  </div>
+  <div style="width: 300px; border: 1px solid #ddd; padding: 10px; border-radius: 10px;">
+    <h4>HackerRank C++ (5⭐)</h4>
+    <p>Specialized in C++ Problem Solving.</p>
+  </div>
+</div>
+
+---
+
+### 🌟 **Connect With Me**  
+
+<div align="center">
+
+  <a href="mailto:akdwivedi7355@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+  <a href="https://linkedin.com/in/akdwivedi7355"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+  <a href="https://github.com/akdwivedi7355"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>  
+  <a href="https://akdwivedi7355.github.io/myportfolio/portfolio.html"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+
+</div>
+
+---
