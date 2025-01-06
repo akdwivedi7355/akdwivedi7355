@@ -1,3 +1,7 @@
+Here’s an updated version of your profile incorporating elements from the style and structure you shared, with added sections showcasing your repositories, commits, and other activity:
+
+---
+
 # 🌟 Hi there, I'm **Aditya Kumar Dwivedi**! 👋  
 
 Welcome to my profile! 🚀  
@@ -5,38 +9,55 @@ Welcome to my profile! 🚀
 ---
 
 ## 👨‍💻 **About Me**  
-I'm a **proactive and dedicated Software Developer** currently working at **MULTIFACET SOFTWARES SYSTEMS**. With a strong foundation in programming languages and technology, I specialize in building innovative solutions that deliver impact.  
+I'm a **proactive and dedicated Software Developer** currently working at **MULTIFACET SOFTWARES SYSTEMS**. I have a solid foundation in programming and specialize in creating impactful, innovative solutions.  
 
-I'm also Completed my **Master's in Computer Application** from **Dr. A.P.J Abdul Kalam Technical University, Lucknow**.
+I hold a **Master's in Computer Application** from **Dr. A.P.J Abdul Kalam Technical University, Lucknow**.
 
 ---
 
 ## 💼 **Professional Experience**  
 
 ### **Software Developer | MSSPL**  
-- Working on **multifaceted software solutions** to meet client needs.  
-- Collaborating with teams to design, develop, and deploy high-quality applications.  
-- Utilizing technologies like **JavaScript, Python, React, and MySQL** for efficient solutions.  
+- Designing and developing **high-quality, multifaceted software solutions** tailored to client needs.  
+- Collaborating with teams to ensure seamless **application deployment and user satisfaction**.  
+- Proficient in technologies like **JavaScript, Python, React, and MySQL** for scalable solutions.  
 
 ---
 
-## 🚀 **Projects**  
+## 🚀 **Repositories and Activity**  
 
-### **✨ AIdyllic AI Platform**  
-**Technologies:** JavaScript, React, Python, TensorFlow, HTML/CSS  
-Engineered and launched a **multifunctional AI platform** showcasing end-to-end software development expertise.
+### 🌟 **Highlighted Repositories**
+- **[AIdyllic AI Platform](https://github.com/akdwivedi7355/AIdyllic-AI-Platform)**:  
+  - An **end-to-end AI platform** leveraging React, Python, and TensorFlow.  
+  - Tools: JavaScript, React, Python, TensorFlow, HTML/CSS.  
 
-### **📚 Book Recommendation System**  
-**Technologies:** Python, Pandas, Scikit-learn  
-Built a **personalized book recommendation system** that enhances user engagement through robust recommendation algorithms.
+- **[Book Recommendation System](https://github.com/akdwivedi7355/Book-Recommendation-System)**:  
+  - A **robust recommendation system** using Pandas and Scikit-learn.  
+  - Tools: Python, Pandas, Scikit-learn.  
+
+To make the data in the **Activity Overview** section dynamic and updated in real-time, you can integrate GitHub API or a service like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) into your GitHub profile README. Here's how you can do it:
+
+---
+
+### 📊 **Dynamic Activity Overview**
+
+| **Metric**              | **Value**       |
+|--------------------------|-----------------|
+| **Total Repositories**   | ![Repos](https://img.shields.io/badge/dynamic/json?label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakdwivedi7355) |
+| **Commits this Year**    | ![Commits](https://github-readme-stats.vercel.app/api?username=akdwivedi7355&show_icons=true&count_private=true&hide=prs&line_height=27&theme=radical&hide_title=true) |
+| **Followers**            | ![Followers](https://img.shields.io/github/followers/akdwivedi7355?label=Followers) |
+| **Contributions**        | ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=akdwivedi7355&theme=radical&hide_border=true) |
+
+---
+Check out all my projects: [My GitHub Repositories](https://github.com/akdwivedi7355?tab=repositories)  
 
 ---
 
 ## 🛠️ **Skills**  
 
-| **Languages** | **Web Development** | **Databases** | **Tools** |
-| :-----------: | :----------------: | :-----------: | :-------: |
-| C++, Java, Python | HTML, CSS, JavaScript | MySQL, MongoDB | Git, GitHub, Firebase, Heroku |
+| **Languages**   | **Web Development** | **Databases**      | **Tools**           |
+| :-------------: | :-----------------: | :----------------: | :-----------------: |
+| C++, Java, Python | HTML, CSS, JavaScript | MySQL, MongoDB      | Git, GitHub, Firebase, Heroku |
 
 ---
 
@@ -45,14 +66,14 @@ Built a **personalized book recommendation system** that enhances user engagemen
 - **Qualified TCS NQT** (73.38%)  
 - **4⭐ HackerRank** in Java Problem Solving  
 - **5⭐ HackerRank** in C++ Problem Solving  
-- Certified: **Data Structures**, **Programming Fundamentals**, **SQL for Data Science**, and **Google Analytics**  
+- Certified in **Data Structures**, **Programming Fundamentals**, **SQL for Data Science**, and **Google Analytics**  
 
 ---
 
 ## 🌟 **Extra-Curricular Activities**  
 
 - **Tech Community Organizer** at **Our Tech Community (OTC)**  
-- Conducted **technical talks and workshops** impacting **700+ learners**  
+  - Conducted **technical talks and workshops** impacting **700+ learners**  
 - **Articles**: Authored technical deep-dives on **networking topics**  
 
 ---
@@ -68,4 +89,8 @@ Built a **personalized book recommendation system** that enhances user engagemen
 
 🎯 *"Passion fuels progress, and I believe every line of code brings us closer to a solution."* 🚀  
 
- 😊
+😊
+
+---
+
+Let me know if you need further customization!
