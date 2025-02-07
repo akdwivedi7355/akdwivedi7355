@@ -30,7 +30,7 @@
 - 🚀 Software Developer at MULTIFACET SOFTWARES SYSTEMS
 - 📚 MCA Graduate from Dr. A.P.J Abdul Kalam Technical University
 - 💡 Specialized in Full Stack Development
-- 🌟 2+ years of hands-on development experience
+- 🌟 1+ years of hands-on development experience
 
 ### 🎓 Education
 - **Master of Computer Applications (MCA)**
