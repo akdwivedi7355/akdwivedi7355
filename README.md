@@ -5,8 +5,7 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;Problem+Solver)
   
-  <img src="https://github-profile-trophy.vercel.app/?username=akdwivedi7355&theme=radical&no-frame=true&no-bg=true&row=1" width="100%" alt="Trophy" />
-</div>
+ 
 
 <br>
 
