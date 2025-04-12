@@ -35,7 +35,7 @@
 - **Master of Computer Applications (MCA)**
   - Dr. A.P.J Abdul Kalam Technical University, Lucknow
   - 2022 - 2024
-- **Bachelor of Computer Applications (BCA)**
+- **Bachelor of Science (BSc)**
   -  Chhatrapati Shahu Ji Maharaj University ,Kanpur
   - 2019 - 2022
 
